@@ -12,6 +12,7 @@ HOW TO PLAY:
 To control the ball use ARROWS or A and D buttons.
 To jump use SPACEBAR.
  - You can hold SPACEBAR to jump higher.
+
 To restart use R or LEFT CTRL button.
 To pause and open In-Game Menu use ESC button.
 
